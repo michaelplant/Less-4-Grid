@@ -8,3 +8,5 @@ PSD Grid for Less Framework 4
 [Learn more about the Less Framework](http://lessframework.com/)
 
 Created by [KarateJon](http://github.com/karatejon "KarateJon")
+
+John from Rosetta
